@@ -1,12 +1,17 @@
 *{ 
   padding: 0;
   margin: 0;
+  font-size: 40px;
 }
 
 .box-pizza {
   background-color: gold;
   padding: 20px;
+  height: 100px;
+  width: 100px;
   border: 30px soild black;
   margin: 50px;
 }
+
+.box-fries {
 
