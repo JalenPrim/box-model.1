@@ -3,7 +3,10 @@
   margin: 0;
 }
 
-.box one {
-  background-color: gold
+.box pizza {
+  background-color: gold;
+  padding: 20px;
+  border: 30px soild black;
+  margin: 50px;
 }
 
