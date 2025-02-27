@@ -5,46 +5,36 @@
 }
 
 .box-pizza {
-  background-color: gold;
+  background-color: #ffd11a;
   padding: 10px;
-  height: 100px;
-  width: 100px;
   border: 30px soild black;
   margin: 60px;
 }
 
 .box-fries {
-  background-color: orange;
+  background-color: #b32400;
    padding: 10px;
-  height: 100px;
-  width: 100px;
   border: 30px soild black;
   margin: 60px;
 }
   
 .box-lemonade {
-   background-color: gold;
-  padding: 10px;
-  height: 100px;
-  width: 100px;
+  background-color: #ffff00;
+   padding: 10px;
   border: 30px soild black;
   margin: 60px;
 }
 
 .box-hotdog {
-   background-color: gold;
-  padding: 10px;
-  height: 100px;
-  width: 100px;
+   background-color: #4d94ff;
+   padding: 10px;
   border: 30px soild black;
   margin: 60px;
 }
 
 .box-wings {
-   background-color: gold;
-  padding: 10px;
-  height: 100px;
-  width: 100px;
+  background-color: #d2a679;
+   padding: 10px;
   border: 30px soild black;
   margin: 60px;
 }
