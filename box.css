@@ -6,12 +6,19 @@
 
 .box-pizza {
   background-color: gold;
-  padding: 20px;
+  padding: 10px;
   height: 100px;
   width: 100px;
   border: 30px soild black;
-  margin: 50px;
+  margin: 60px;
 }
 
 .box-fries {
-  background-color:
+  background-color: orange;
+   padding: 10px;
+  height: 100px;
+  width: 100px;
+  border: 30px soild black;
+  margin: 60px;
+}
+  
