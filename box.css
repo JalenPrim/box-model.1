@@ -22,3 +22,29 @@
   margin: 60px;
 }
   
+.box-lemonade {
+   background-color: gold;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  border: 30px soild black;
+  margin: 60px;
+}
+
+.box-hotdog {
+   background-color: gold;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  border: 30px soild black;
+  margin: 60px;
+}
+
+.box-wings {
+   background-color: gold;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  border: 30px soild black;
+  margin: 60px;
+}
